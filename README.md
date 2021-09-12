@@ -13,10 +13,6 @@ conda create --name ia --file conda-spec-file.txt
 
 ### Tutorials
 
-Notebook                                                               | Description
------------------------------------------------------------------------|-----------------
-01-Tutorials/01-TF2-MNIST-tutorial/01-MNIST-Dataset.ipynb              | TensorFlow 2.5 tutorial with hand-digit classification
-
-
-
-
+Description                                                           | Notebook
+----------------------------------------------------------------------|--------------
+TensorFlow 2.5 tutorial with hand-written digit classification        | [link](./01-Tutorials/01-TF2-MNIST-tutorial/01-MNIST-Dataset.ipynb)
